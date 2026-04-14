@@ -97,7 +97,7 @@ Sample dataset including:
 ## 📷 Dashboard Preview
 
 
-![Dashboard Preview](your-image-file.png)
+![Dashboard Preview]([your-image-file.png](https://github.com/VidyaVGeetha/powerbi-sales-marketing-dashboard/blob/main/Dasgboard_Screenshot.png))
 
 ---
 
