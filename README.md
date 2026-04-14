@@ -97,9 +97,6 @@ Sample dataset including:
 ## 📷 Dashboard Preview
 
 
-(https://github.com/VidyaVGeetha/powerbi-sales-marketing-dashboard/blob/main/Dasgboard_Screenshot.png)]
-
----
-
+https://github.com/VidyaVGeetha/powerbi-sales-marketing-dashboard/blob/main/Dasgboard_Screenshot.png
 ## 📌 Conclusion
 This project demonstrates my ability to analyse data, build interactive dashboards, and communicate business insights effectively using Power BI.
