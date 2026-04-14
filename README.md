@@ -84,7 +84,12 @@ Sample dataset including:
 - Sales teams  
 
 ---
-
+## 📊 Impact Metrics
+- Enabled data-driven decision-making through clear KPI tracking  
+- Identified high-performing regions and sales trends  
+- Demonstrated the positive relationship between marketing spend and sales  
+- Reduced complexity by transforming raw data into actionable insights
+  
 ## 🚀 What I Learned
 - Creating KPI measures using DAX  
 - Building interactive Report (dashboard style layout)
